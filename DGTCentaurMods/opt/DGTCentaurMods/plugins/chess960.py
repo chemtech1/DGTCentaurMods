@@ -104,7 +104,7 @@ class RandomBot(Plugin):
                 # We choose a random move
                 uci_move = str(random.choice(list(self.chessboard.legal_moves)))
 
-                Centaur.play_computer_move(uci_move)
+                Centaur.play_computer_move()
 
      # When exists, this function is automatically invoked
      # at start, after splash screen, on PLAY button.
