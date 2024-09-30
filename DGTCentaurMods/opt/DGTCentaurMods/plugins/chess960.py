@@ -62,43 +62,7 @@ HUMAN_COLOR = chess.WHITE
  #--------------------------------------------------------------------------
 class chess960(Plugin):
 
-     def __init__(self, id: str):
-        super().__init__(id)
-        self.engine = chess.engine.SimpleEngine.popen_uci("/opt/DGTCentaur/engines/stockfish")
-
-    """
-
-    # Constructor for initialization stuff
-    # The id is the name of the plugin/class
-    def __init__(self, id:str):
-        super().__init__(id)
-
-    # This function is automatically invoked when
-    # the user launches the plugin.
-    def start(self):
-        super().start()
-
-    # This function is (automatically) invoked when
-    # the user stops the plugin.
-    def stop(self):
-        # Back to the main menu.
-        super().stop()
-
-    # When exists, this function is automatically invoked
-    # when the player physically plays a move.
-    def move_callback(self, uci_move:str, san_move:str, color:chess.Color, field_index:chess.Square):
-        
-        # Nothing to do there...
-
-        if color == (not HUMAN_COLOR):
-            # Black move is accepted
-            return True
-
-        # White move is accepted
-        return True
-
-    """
-
+  
     # This function is automatically invoked each
     # time the player pushes a key.
     # Except the BACK key which is handled by the engine.
@@ -155,21 +119,6 @@ class chess960(Plugin):
              #   Centaur.request_chess_engine_move(engine_move_callback)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
      # When exists, this function is automatically invoked
      # at start, after splash screen, on PLAY button.
     def on_start_callback(self, key:Enums.Btn) -> bool:
@@ -182,6 +131,7 @@ class chess960(Plugin):
             flags=Enums.BoardOption.CAN_UNDO_MOVES)
         
         # Game started.
+        self.engine = chess.engine.SimpleEngine.popen_uci("/opt/DGTCentaur/engines/stockfish")
         return True
 
      # When exists, this function is automatically invoked
