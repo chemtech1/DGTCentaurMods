@@ -19,7 +19,7 @@
 # This and any other notices must remain intact and unaltered in any
 # distribution, modification, variant, or derivative of this software.
 
-import chess, random
+import chess, random, chess.engine
 
 from DGTCentaurMods.classes.Plugin import Plugin, Centaur, TPlayResult
 from DGTCentaurMods.consts import Enums, fonts
@@ -61,6 +61,10 @@ HUMAN_COLOR = chess.WHITE
 
  #--------------------------------------------------------------------------
 class chess960(Plugin):
+
+     def __init__(self, id: str):
+        super().__init__(id)
+        self.engine = chess.engine.SimpleEngine.popen_uci("/opt/DGTCentaur/engines/stockfish")
 
     """
 
@@ -135,7 +139,9 @@ class chess960(Plugin):
                 #uci_move = str(random.choice(list(self.chessboard.legal_moves)))
 
                 #Centaur.play_computer_move(uci_move)
-                Centaur.play_computer_move(str(result.move))
+                #Centaur.play_computer_move(str(result.move))
+                 result = self.engine.play(self.chessboard, chess.engine.Limit(time=2.0))
+                Centaur.play_computer_move(result.move.uci())
 
                 #def engine_move_callback(result:TPlayResult):
 
