@@ -140,7 +140,7 @@ class chess960(Plugin):
 
                 #Centaur.play_computer_move(uci_move)
                 #Centaur.play_computer_move(str(result.move))
-                 result = self.engine.play(self.chessboard, chess.engine.Limit(time=2.0))
+                result = self.engine.play(self.chessboard, chess.engine.Limit(time=2.0))
                 Centaur.play_computer_move(result.move.uci())
 
                 #def engine_move_callback(result:TPlayResult):
