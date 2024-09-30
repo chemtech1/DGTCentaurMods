@@ -21,13 +21,19 @@
 
 import chess, random
 
-from DGTCentaurMods.classes.Plugin import Plugin, Centaur
+from DGTCentaurMods.classes.Plugin import Plugin, Centaur, TPlayResult
 from DGTCentaurMods.consts import Enums, fonts
 
 from typing import Optional
 
 HUMAN_COLOR = chess.WHITE
 
+# The plugin must inherits of the Plugin class.
+# Filename must match the class name.
+
+
+
+#----------------------------------------------------------
 # Chess engines
 #CHESS_ENGINES = Centaur.get_chess_engines()
 # Centaur.play_computer_move(str(result.move))
@@ -35,9 +41,9 @@ HUMAN_COLOR = chess.WHITE
 # Centaur.set_main_chess_engine("stockfish")
 # Centaur.configure_main_chess_engine({"UCI_Elo": 2200})
 
-Centaur.set_main_chess_engine("ct800")
+#Centaur.set_main_chess_engine("ct800")
 
-    self._adjust_chess_engine(1800)
+#    self._adjust_chess_engine(1800)
 
 
 
@@ -53,12 +59,7 @@ Centaur.set_main_chess_engine("ct800")
                 # (in the meantime, user can takeback or force a move...)
  #               Centaur.request_chess_engine_move(engine_move_callback)
 
-
-
-
-
-# The plugin must inherits of the Plugin class.
-# Filename must match the class name.
+ #--------------------------------------------------------------------------
 class chess960(Plugin):
 
     """
@@ -131,24 +132,47 @@ class chess960(Plugin):
             if turn == (not HUMAN_COLOR):
 
                 # We choose a random move
-               # uci_move = str(random.choice(list(self.chessboard.legal_moves)))
+                #uci_move = str(random.choice(list(self.chessboard.legal_moves)))
 
-                Centaur.play_computer_move(str(result.move))
+                #Centaur.play_computer_move(uci_move)
+
+
+                def engine_move_callback(result:TPlayResult):
+
+                    Centaur.play_computer_move(str(result.move))
+
+                    # Position needs to be evaluated again.
+                    self._evaluate_position_and_adjust_level()
+
+                # Computer is going to play asynchronously.
+                # (in the meantime, user can takeback or force a move...)
+                Centaur.request_chess_engine_move(engine_move_callback)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
      # When exists, this function is automatically invoked
      # at start, after splash screen, on PLAY button.
     def on_start_callback(self, key:Enums.Btn) -> bool:
 
-
-        Centaur.set_main_chess_engine("stockfish")
-        Centaur.configure_main_chess_engine({"UCI_Elo": 2200})
-
-
         # Start a new game.
         Centaur.start_game(
             white="You", 
-            black="Stockfish",
-            event="Chess960",
+            black="Random bot", 
+            event="Bots chess event 2024",
             flags=Enums.BoardOption.CAN_UNDO_MOVES)
         
         # Game started.
@@ -162,8 +186,8 @@ class chess960(Plugin):
 
         Centaur.clear_screen()
 
-        print("Chess960", row=2)
-        print("", font=fonts.DIGITAL_FONT, row=4)
+        print("RANDOM", row=2)
+        print("BOT", font=fonts.DIGITAL_FONT, row=4)
         print("Push PLAY", row=8)
         print("to")
         print("start")
