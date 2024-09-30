@@ -135,18 +135,18 @@ class chess960(Plugin):
                 #uci_move = str(random.choice(list(self.chessboard.legal_moves)))
 
                 #Centaur.play_computer_move(uci_move)
+                Centaur.play_computer_move(str(result.move))
 
+                #def engine_move_callback(result:TPlayResult):
 
-                def engine_move_callback(result:TPlayResult):
-
-                    Centaur.play_computer_move(str(result.move))
+                 #   Centaur.play_computer_move(str(result.move))
 
                     # Position needs to be evaluated again.
-                    self._evaluate_position_and_adjust_level()
+                 #   self._evaluate_position_and_adjust_level()
 
                 # Computer is going to play asynchronously.
                 # (in the meantime, user can takeback or force a move...)
-                Centaur.request_chess_engine_move(engine_move_callback)
+             #   Centaur.request_chess_engine_move(engine_move_callback)
 
 
 
