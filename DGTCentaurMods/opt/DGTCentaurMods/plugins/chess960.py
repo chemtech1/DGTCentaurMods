@@ -131,7 +131,7 @@ class chess960(Plugin):
             flags=Enums.BoardOption.CAN_UNDO_MOVES)
         
         # Game started.
-        self.engine = chess.engine.SimpleEngine.popen_uci("/opt/DGTCentaur/engines/stockfish")
+        self.engine = chess.engine.SimpleEngine.popen_uci("/opt/DGTCentaurMods/engines/stockfish")
         return True
 
      # When exists, this function is automatically invoked
