@@ -31,3 +31,5 @@ DGTCentaurMods/web/static/epaper.jpg
 DGTCentaurMods.code-workspace
 .gitignore
 DGTCentaurMods/opt/DGTCentaurMods/web/client/vite.config.ts
+DGTCentaurMods/keyfordgtcentaur.pub
+DGTCentaurMods/keyfordgtcentaur
