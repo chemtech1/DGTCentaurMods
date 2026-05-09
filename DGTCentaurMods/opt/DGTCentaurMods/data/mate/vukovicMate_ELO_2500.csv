@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+54uxc,8/r7/p1R5/1p2pp2/1P2k1p1/P5P1/2N1KPP1/2b5 b - - 3 45,c1b2 c2e3 f5f4 f2f3 g4f3 g2f3 e4d4 c6d6 d4c3 d6d3,2624,95,93,1229,endgame mate mateIn5 veryLong vukovicMate,https://lichess.org/cmcICYSs/black#90,
+7gVfy,8/4bp1k/P3p1p1/1Q2Pn1p/2P5/6PK/P4r1P/8 w - - 3 36,a6a7 g6g5 g3g4 h5g4 h3g4 f2f4 g4h3 g5g4 h3g2 f5e3 g2g3 f4f3,2610,90,93,5189,attraction endgame mate mateIn5 pillsburysMate quietMove veryLong vukovicMate,https://lichess.org/rCHazGf4#71,
+WZyP2,3r3r/pk3p2/8/2b5/B4Bq1/P1N2nPb/1P3P1p/R1QR3K w - - 0 28,d1d8 h3g2 h1g2 f3h4 g2h2 h4f3 h2g2 h8h2 g2f1 h2f2,2510,100,91,6407,attraction discoveredCheck doubleCheck exposedKing kingsideAttack mate mateIn5 middlegame operaMate pin sacrifice veryLong vukovicMate,https://lichess.org/WSZDjsu1#55,
+h1Li2,2kr1r2/Qp4pp/2p1b3/5n2/1P6/1PN1b3/1BP1B1PP/R5KR w - - 1 22,g1f1 f5d4 e2f3 f8f3 g2f3 e6h3 f1e1 d4c2 e1e2 d8d2,2659,107,94,7697,discoveredAttack discoveredCheck fork mate mateIn5 middlegame operaMate pillsburysMate sacrifice veryLong vukovicMate,https://lichess.org/jO9YixXX#43,
+niALJ,r4rk1/1np2pp1/ppn1p1p1/4P1N1/2P1N3/7Q/P2RKPPP/7q b - - 1 22,f8d8 e4f6 g8f8 h3h8 f8e7 h8e8 d8e8 d2d7 e7f8 d7f7,2563,88,95,1644,collinear kingsideAttack mate mateIn5 middlegame sacrifice veryLong vukovicMate,https://lichess.org/N7ZUdcd4/black#44,

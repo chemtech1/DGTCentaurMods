@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+B70p8,2rq1rk1/p3bppp/1p2p3/3p3P/1n1P1Bn1/2Pb1N2/PP1N1PP1/1BKRQ2R w - - 7 16,a2a3 b4a2 b1a2 c8c3 b2c3 e7a3,2231,86,94,169009,bodenMate deflection long mate mateIn3 middlegame queensideAttack sacrifice,https://lichess.org/J9xKmf9Z#31,Queens_Pawn_Game Queens_Pawn_Game_London_System
+YzvPL,r1b1r1kb/3n3n/p2pN1pB/q5P1/1pBPP3/2p5/PPPQ4/1K1R2NR b - - 0 21,c3d2 e6c5 d6d5 c4d5 e8e6 d5e6,2228,84,93,173728,bodenMate discoveredAttack discoveredCheck exposedKing interference long mate mateIn3 middlegame,https://lichess.org/IlgYGFuA/black#42,
+fvWF0,2k4r/pp1n2pp/5p2/1B1Q4/1b3B2/1P2P2P/1PK2PP1/4q3 b - - 3 27,h8d8 d5c6 b7c6 b5a6,2224,87,94,14701,bodenMate mate mateIn2 middlegame queensideAttack sacrifice short,https://lichess.org/0zXStUjg/black#54,
+k7jv5,8/3kb3/2n1p2R/p2pP3/b1pP4/1qP2r2/NP2BP2/1QKR4 w - - 0 28,e2f3 b3d1 f3d1 e7g5 f2f4 g5f4,2302,88,89,436,bodenMate fork long mate mateIn3 middlegame sacrifice,https://lichess.org/ZpoUjQzC#55,
+pnNfB,r1bqk2r/1p1n1pbp/4p1p1/1P1pP3/pB1P1PQP/3B1N2/1P4P1/3K3R b kq - 0 18,h7h5 g4e6 f7e6 d3g6,2202,84,94,11008,bodenMate deflection mate mateIn2 middlegame sacrifice short,https://lichess.org/F3H4Ogo2/black#36,French_Defense French_Defense_Tarrasch_Variation
+uNa6U,r3k2r/ppq1bppp/4p1b1/3p4/1n1P4/2P2N1P/PP1NQPP1/1BKR3R w kq - 0 14,f3e5 b4a2 b1a2 c7c3 b2c3 e7a3,2253,87,95,1438,bodenMate long mate mateIn3 middlegame queensideAttack sacrifice,https://lichess.org/YPdpNICo#27,Benoni_Defense Benoni_Defense_Old_Benoni
+w3tRL,1R4nr/5pk1/1B1p1b2/3N3p/4Pp2/3B2Pb/1qP1N2P/3Q2KR w - - 1 25,e2f4 b2b6 b8b6 f6d4 d5e3 d4e3,2365,99,95,9139,bodenMate fork long mate mateIn3 middlegame sacrifice,https://lichess.org/nMubzw2q#49,

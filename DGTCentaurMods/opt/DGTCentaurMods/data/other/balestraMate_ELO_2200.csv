@@ -1,0 +1,32 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2JILX,8/p5k1/7p/4Q1pP/4B1P1/P7/1r2q3/7K b - - 3 41,g7f7 e4d5 f7f8 e5f6 f8e8 d5c6,2292,78,96,2195,balestraMate endgame exposedKing long mate mateIn3,https://lichess.org/PBLLSrK1/black#82,
+6LHc2,5Q2/p1p4R/6p1/8/2b3kP/2q5/6P1/5K2 w - - 4 37,f1f2 c3d4 f2e1 d4e3 e1d1 c4b3,2209,75,93,9711,balestraMate endgame long mate mateIn3,https://lichess.org/ETQHdYGT#73,
+8bHmk,r3rnk1/1pp2p2/p1np1b1Q/8/3PP3/P1NB1q2/1P3P1K/3R2R1 b - - 1 21,f8g6 g1g6 f7g6 d3c4 d6d5 c4d5 e8e6 d5e6,2284,79,95,2031,balestraMate kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/UYOzYC1C/black#42,
+8cf87,r1bqr3/p2k1p1p/1pp2n1B/2b1Q3/2B5/2N5/PPP2PPP/3R2K1 b - - 2 18,f6d5 d1d5 c6d5 c4b5,2306,80,95,3375,balestraMate mate mateIn2 middlegame sacrifice short,https://lichess.org/eIeHoikL/black#36,Scotch_Game Scotch_Game_Lolli_Variation
+ADmn6,3r2k1/1p5p/p4pR1/5Q2/2P1pP2/1P6/PB2q2P/7K b - - 0 28,h7g6 f5g6 g8f8 b2a3 d8d6 a3d6,2234,83,91,897,balestraMate endgame exposedKing long mate mateIn3,https://lichess.org/uKjxZhAo/black#56,
+CKNuy,1k3q1r/5B2/Pp1pQ2b/4p3/4P2P/6P1/5P1K/8 b - - 4 48,b8a7 e6d7 a7a6 f7c4 b6b5 d7b5 a6a7 b5a6 a7b8 a6b6 b8c8 c4e6,2365,86,91,7225,balestraMate endgame mate mateIn5 veryLong,https://lichess.org/JTQ7OzVJ/black#96,
+ELCci,2b2rk1/2Q2N1n/2P5/3Pp3/4P3/6q1/2B5/5K1R w - - 4 37,h1g1 c8a6 c2d3 a6d3,2226,81,92,6586,balestraMate mate mateIn2 middlegame short,https://lichess.org/UyBjM4GZ#73,
+FMgKo,8/3bkp1p/2p5/4Pp2/1R3K2/3BQ1P1/p1P4P/7q b - - 0 37,a2a1q e3c5 e7e8 b4b8 d7c8 b8c8 e8d7 d3f5,2302,82,93,1168,balestraMate endgame mate mateIn4 veryLong,https://lichess.org/TAbDLsCk/black#74,
+G6Tyx,6r1/Qp3p1k/7p/4p3/2P1Pb2/1P3NPq/P4P2/3R2K1 w - - 1 31,a7b7 g8g3 f2g3 f4e3,2323,81,33,66,balestraMate endgame mate mateIn2 sacrifice short,https://lichess.org/uGsLj130#61,
+Gt3aY,6k1/p2Q1pp1/N3p2r/3n3p/2BP2b1/2P1q3/PP4PP/R4KNR w - - 3 18,a1e1 h6f6 g1f3 f6f3 g2f3 g4h3,2213,78,94,10513,balestraMate long mate mateIn3 middlegame sacrifice,https://lichess.org/CRn3IAiR#35,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Ryder_Gambit
+JwyVD,r3r1k1/ppp2p1p/6NQ/8/3P4/3B4/1qPK3P/6R1 b - - 0 24,f7g6 g1g6 h7g6 d3c4 e8e6 c4e6,2269,84,88,356,balestraMate endgame long mate mateIn3 sacrifice,https://lichess.org/x3ZpRp1N/black#48,
+Nv62Y,8/6k1/2B5/3PQ3/4Pp1P/2p5/6PK/1r2q3 b - - 0 44,g7h6 e5h8 h6g6 c6e8,2252,82,94,10016,balestraMate endgame mate mateIn2 short,https://lichess.org/KYnRRSZk/black#88,
+Q312b,r5k1/p1p2p2/6pQ/2p1q3/3p4/3B3P/P1P3R1/7K b - - 3 27,a8b8 g2g6 f7g6 d3c4 e5d5 c4d5,2211,76,94,1523,balestraMate endgame long mate mateIn3 sacrifice,https://lichess.org/GDgG8hOg/black#54,
+ULsyy,r2q2rk/5p1N/b4P2/4n3/p1np1Q2/3p2P1/PP3PB1/R4RK1 b - - 0 24,h8h7 f4h4 h7g6 g2e4,2303,78,94,3795,balestraMate master mate mateIn2 middlegame short,https://lichess.org/KX5ArNHF/black#48,
+WHZvk,4Q3/5k2/p1B3pp/5p2/5P2/1P1b2qP/P7/7K b - - 7 43,f7f6 e8e5 f6f7 c6d5 f7f8 e5f6 f8e8 d5c6,2345,79,94,5003,balestraMate endgame mate mateIn4 veryLong,https://lichess.org/eW0unIFT/black#86,
+WLnhV,3k1b1r/p3ppp1/Q2p4/1B1P2Bp/5K2/2r4P/P4PP1/nq5R b - - 1 24,b1h1 a6d6 d8c8 b5a6,2319,105,32,27,balestraMate mate mateIn2 middlegame pin short,https://lichess.org/x5ky5tdb/black#48,
+ZQAZA,4kbnB/1Q5p/5pp1/1p1P4/8/1q6/4BPPP/3K2NR w - - 2 22,d1c1 f8h6 f2f4 h6f4,2244,83,94,6078,balestraMate mate mateIn2 middlegame short,https://lichess.org/WChXsKhI#43,
+aRbtv,rnb4r/p2np2p/k3N1p1/1pP5/5B2/3Q4/P4KPP/7q b - - 0 22,b8c6 e6c7 a6b7 d3b5 d7b6 b5a6 b7b8 c7e6 c6e5 f4e5,2462,92,93,3328,balestraMate deflection discoveredAttack discoveredCheck fork mate mateIn5 middlegame veryLong,https://lichess.org/MTT5FEl6/black#44,
+aSO7z,2r3k1/1br2p2/p5pQ/1p3B1p/3P3q/2P3R1/6PP/2R3K1 b - - 0 30,c7c3 g3g6 f7g6 f5e6,2308,87,94,4602,balestraMate mate mateIn2 middlegame sacrifice short,https://lichess.org/qU49gzQ3/black#60,
+bCIPR,4r1k1/2p2ppp/bpB5/3Q4/P5n1/2q1BN2/5PPP/R3K2R w KQ - 0 18,e1d1 g4f2 e3f2 a6e2,2245,87,90,2621,balestraMate mate mateIn2 middlegame sacrifice short,https://lichess.org/WLn7ZS6s#35,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense
+boRX6,R7/5pk1/Q2ppb2/2p4p/PqP1B1pP/3P2P1/4rPK1/8 w - - 0 42,a6c8 e2f2 g2f2 b4d2 f2f1 d2d1 f1g2 d1e2 g2h1 e2f1 h1h2 f1h3 h2g1 f6d4,2404,98,89,761,attraction balestraMate endgame mate mateIn5 sacrifice veryLong,https://lichess.org/olTaJnzZ#83,
+c6r95,1B4k1/5ppp/4p3/8/bb2n2q/5P2/P2NB2P/RQ2K2R w KQ - 1 21,b8g3 b4d2 e1f1 h4h3 f1g1 d2e3 g3f2 e3f2,2262,80,93,2377,balestraMate exposedKing mate mateIn4 middlegame veryLong,https://lichess.org/NryeL5JJ#41,
+db9qG,5rk1/1p4p1/p2p4/5p2/4pP1Q/6RK/q6P/6Br b - - 7 36,a2e2 g3g7 g8g7 g1d4 g7g6 h4g5 g6f7 g5f6 f7e8 f6e6 e8d8 d4b6,2247,78,90,704,attraction balestraMate endgame mate mateIn5 sacrifice veryLong,https://lichess.org/9gsMPzBT/black#72,
+djJng,8/4p1k1/5p2/2pP3Q/1n1p1b2/PK1q4/1P4B1/R7 w - - 3 37,b3a4 d3a6 a4b3 c5c4 b3b4 f4d6,2334,87,80,529,balestraMate endgame long mate mateIn3 sacrifice,https://lichess.org/UtsTo6Pg#73,
+io25E,6rk/p7/1p6/2p1q3/8/3BBQ1P/P1P5/5n1K b - - 12 41,e5e3 f3h5 h8g7 h5g6 g7f8 g6f6 f8e8 d3b5,2425,84,92,5234,balestraMate endgame exposedKing mate mateIn4 veryLong,https://lichess.org/JvvnEPil/black#82,
+ipMj8,r5Q1/3k4/3pp3/8/4Pb2/1P3q2/N7/K3R3 w - - 8 46,g8a8 f4e5 a1b1 f3b3 b1c1 e5f4 e1e3 f4e3,2341,80,92,8440,balestraMate endgame exposedKing mate mateIn4 veryLong,https://lichess.org/d3DSrJSG#91,
+nPstr,7Q/p2k1ppp/p3p3/3p4/qb1P1B2/4PN2/5PPP/3K3R w - - 0 19,d1e2 a4b5 e2d1 b5d3 d1c1 b4a3,2369,81,93,6043,balestraMate endgame long mate mateIn3,https://lichess.org/heeDVkoC#37,
+oOe1G,2Q1kr2/8/1p6/pb1Pp3/1q2Pp2/5P2/PP3BP1/1K6 b - - 0 32,e8e7 c8e6 e7d8 f2b6,2233,79,93,5414,balestraMate endgame mate mateIn2 short,https://lichess.org/ZcxN9nB7/black#64,
+u56UY,r1bq1rk1/1ppn4/p2b3Q/4p3/3Pn3/2PB4/PP4PP/R4RK1 b - - 0 16,d8g5 d3c4 f8f7 c4f7,2200,77,93,8987,balestraMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/MgX8h2PA/black#32,Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation
+vbxab,B3k2r/p2np2p/6pb/2p2q2/Q7/2Nn2P1/PP2NP1P/3R1K1R w k - 5 19,f2f3 f5h3 f1g1 h6e3,2223,79,74,271,balestraMate mate mateIn2 middlegame short,https://lichess.org/67t3v7xp#37,
+wQHL9,6rk/p5Rp/1b6/3Q4/2B5/5P1K/P4q1P/8 b - - 0 31,h8g7 d5g5 g7f8 g5f6 f8e8 c4b5,2341,88,90,445,balestraMate endgame long master mate mateIn3,https://lichess.org/jU06KKql/black#62,

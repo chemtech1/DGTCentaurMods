@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+92t7C,r1bqk2r/pp1p1ppp/2N1p3/8/1bP1n3/2N1B3/PP3PPP/R2QKB1R b KQkq - 0 8,d7c6 d1d8 e8d8 e1c1,1192,82,79,770,castling crushing discoveredAttack discoveredCheck master opening short,https://lichess.org/mSNWrilS/black#16,French_Defense French_Defense_Steiner_Variation
+AgC34,4k2r/pp2qp2/5Bbp/2p3p1/2Pp2P1/3P1Q1P/PP3PB1/R3r1K1 w k - 0 22,a1e1 e7e1 g1h2 e8g8,1269,83,84,686,advantage castling defensiveMove middlegame short,https://lichess.org/JJABXRVW#43,
+BeR4j,r3kbnr/pp3pp1/7p/3qP3/3N2QP/8/PP3P2/R3KB1R b KQkq - 0 14,d5h1 e1c1 h1f1 d1f1,1265,83,84,1021,castling crushing master middlegame short,https://lichess.org/UJz39Aqk/black#28,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+Rgg40,5r2/p2k3p/3Ppnp1/8/8/P6B/1r2PP1P/R3K1R1 b Q - 0 23,d7d6 e1c1 d6e7 c1b2,1268,84,52,510,castling crushing discoveredAttack discoveredCheck endgame short,https://lichess.org/3GZSfp2C/black#46,
+TWRdc,r1bqk2r/pp1p1p2/2N4p/6p1/1b2n3/2N3B1/PP3PPP/R2QKB1R b KQkq - 0 11,d7c6 d1d8 e8d8 e1c1,1183,82,88,1054,castling crushing discoveredAttack discoveredCheck middlegame short,https://lichess.org/OlsDEqLD/black#22,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Declined
+TiOS8,4r1k1/pp5p/1qn1p1pB/3p1bN1/8/1PP5/P2QBPPP/b3K2R b K - 1 20,e8c8 e1g1 a1c3 d2c3,1279,83,78,912,advantage castling middlegame short trappedPiece,https://lichess.org/Vw8Wl7qV/black#40,
+aCnNR,r5k1/1b2q1p1/7p/p1Bpnr2/1p2N3/P1PP3P/BP2Q1P1/R3K3 b Q - 0 25,e5d3 e2d3 e7e6 e1c1,1248,83,78,743,advantage castling defensiveMove hangingPiece middlegame pin short,https://lichess.org/fQaas1V9/black#50,
+pj56w,r5nr/1p1k3p/p4pp1/4p3/1bP1b3/2N3B1/PP2NP1P/R3K1R1 b Q - 1 19,g8e7 e1c1 d7e6 c3e4,1254,85,76,725,advantage castling discoveredAttack discoveredCheck middlegame short,https://lichess.org/3OKbrvND/black#38,French_Defense French_Defense_Tarrasch_Variation
+rOZop,2r1r1k1/pQ3ppp/5n2/1N2N3/qP3Bb1/8/6PP/1R2K2R b K - 2 20,e8e5 f4e5 c8e8 e1g1,1206,84,84,1014,advantage castling defensiveMove hangingPiece middlegame short,https://lichess.org/5Cx81Hu5/black#40,
+uQ88t,r3k2r/ppp1bqpp/3p4/6B1/2P1Q3/5N2/PP3PPP/R5K1 w kq - 1 15,g5e7 f7e7 e4b7 e8g8,1270,80,89,773,advantage castling defensiveMove middlegame short,https://lichess.org/c9bBkS9d#29,Philidor_Defense Philidor_Defense_Exchange_Variation

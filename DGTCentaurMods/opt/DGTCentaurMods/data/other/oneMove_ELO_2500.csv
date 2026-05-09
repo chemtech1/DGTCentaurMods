@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+LBWx5,3rr3/pk3ppp/1p1p1q2/NP1Pp3/5b2/2PP1P2/4K1R1/R5Q1 b - - 1 26,b7c7 a5c4,2594,121,87,664,crushing middlegame oneMove,https://lichess.org/rkb3P0S2/black#52,
+mLOII,rnb2rk1/4p1bp/2pp2p1/8/1p1PP2R/2N1PNq1/1PPQB1P1/2K4R w - - 0 17,c3a2 c8e6,2694,103,85,366,advantage middlegame oneMove,https://lichess.org/JOD9eOhM#33,Pirc_Defense Pirc_Defense_Classical_Variation

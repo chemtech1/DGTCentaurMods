@@ -1,0 +1,25 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+15RIE,1r4k1/1q1b4/2p1p1p1/3pPpNp/rb1P1P1P/pQ1B4/P1PBR1Pn/KR6 w - - 2 35,b3a4 b4c3 d2c3 b7b1,1186,75,100,168,collinear discoveredAttack mate mateIn2 middlegame short,https://lichess.org/4hDRFeXD#69,
+39Y7b,4r3/ppk1rppp/1np2p1b/4P3/2BP4/2NK1NP1/PPP4P/R3R3 w - - 1 20,e5f6 e7e3 e1e3 e8e3,1179,78,100,186,collinear crushing fork middlegame short,https://lichess.org/VelzrPG7#39,
+7e6VS,2r2r2/1k2b3/p1n2p2/1p1b4/5B2/P1R3N1/1P4PP/2R3K1 b - - 1 34,c6d4 c3c7 c8c7 c1c7 b7b6 c7e7,1186,77,96,8539,advantage collinear fork long middlegame,https://lichess.org/AzCs3tq4/black#68,
+AD2Gi,rnbqk2r/pp2pp2/2p2p1b/7p/3P4/2P3P1/PP3P1P/R1BQKBNR w KQkq - 1 8,d1h5 h6d2 c1d2 h8h5,1154,75,96,163,advantage collinear discoveredAttack opening short,https://lichess.org/viOo9HUd#15,Caro-Kann_Defense Caro-Kann_Defense_Bronstein-Larsen_Variation
+FlW2B,2r2k2/1Rp1R1pp/3n4/3N4/8/1P6/2r2PPP/6K1 w - - 6 26,b7c7 c2c1 c7c1 c8c1 e7e1 c1e1,1008,77,99,667,backRankMate collinear endgame long mate mateIn3 xRayAttack,https://lichess.org/F9OnH86G#51,
+HBVBX,r1b2rk1/pp4pp/2n2p2/4p1Q1/2P3B1/1P1P3q/P2N1P1P/2R1K1R1 b - - 0 16,h3h2 g4e6 g8h8 g5g7,1015,77,97,9739,collinear kingsideAttack mate mateIn2 middlegame short,https://lichess.org/2Wf5mCPW/black#32,Scandinavian_Defense Scandinavian_Defense_Panov_Transfer
+KBp4H,2b2rk1/p4rpp/1pn1p3/3pP3/2pP3q/P1N1B2B/1PPQ3K/R4R2 w - - 0 22,e3g5 f7f2 f1f2 f8f2 d2f2 h4f2,1276,75,97,4057,advantage collinear exposedKing fork long middlegame,https://lichess.org/ZFGEJcFI#43,
+P9Tcg,4r3/4r1k1/2p3p1/p1P4p/Pp1p1PpP/3bP1P1/1P1N1K2/2R1R3 w - - 0 43,e3d4 e7e2 e1e2 e8e2,1008,77,100,58,collinear crushing endgame fork short,https://lichess.org/aRHwq5uD#85,
+StzTI,2r3k1/pbr2ppp/4p3/1P1pN3/P2P1P2/1q6/3Q1KPP/R6R w - - 3 22,h1c1 c7c2 c1c2 c8c2 d2c2 b3c2,1196,262,100,6,collinear crushing long middlegame pin,https://lichess.org/fnScE9St#43,
+V6aDR,6R1/5p2/2pq2kp/4Qp2/4p3/7P/P4PPK/3r4 b - - 11 33,g6h5 g2g4 h5h4 e5g3 d6g3 f2g3,1256,75,98,3071,collinear endgame long mate mateIn3 pin,https://lichess.org/MatiaPgj/black#66,
+VsqU9,3rr3/pp6/2p5/3k1p2/3Pn1pP/1P1KR1P1/P5P1/4R3 b - - 0 35,e4d6 e3e5 e8e5 e1e5,1145,80,95,10934,collinear endgame epauletteMate mate mateIn2 short,https://lichess.org/Ov2HEiPK/black#70,
+WnDXm,r1b1kbnr/pp3ppp/2np4/2p3qP/4p3/7B/PBPPPP2/RN1QK1NR b KQkq - 1 9,g5h5 h3d7 c8d7 h1h5,1060,77,99,572,advantage collinear discoveredAttack master opening short,https://lichess.org/YnVHBu5C/black#18,Grob_Opening Grob_Opening_Other_variations
+cWiO7,2kr3r/1pp1q1p1/2nb1p1p/p2p4/4Q3/2P2NB1/PP3PPP/2KR3R w - - 0 18,e4d5 d6f4 g3f4 d8d5,1115,76,94,1594,collinear crushing discoveredAttack middlegame short,https://lichess.org/RDXxISoq#35,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+dct9S,r4r1n/2p4k/pp1p1p1p/4pN1q/2P1P3/3PP1Q1/PP1K4/R5R1 b - - 1 24,f8g8 g3g7 g8g7 g1g7,1147,99,100,36,collinear master mate mateIn2 middlegame sacrifice short,https://lichess.org/3vkkkTQB/black#48,
+eecOf,6k1/pp3pp1/6P1/4R3/8/2P5/r2rNb2/4R2K b - - 0 33,d2e2 e5e8 e2e8 e1e8,1187,77,94,7679,collinear endgame mate mateIn2 short xRayAttack,https://lichess.org/4m7YAm9T/black#66,
+iw9E9,4r1k1/4qppp/p1p1b3/1p6/3P4/PBP2Q1P/1P3PP1/3R1K2 w - - 3 26,d1e1 e6c4 f1g1 e7e1,1278,76,100,95,collinear crushing deflection discoveredAttack endgame short,https://lichess.org/nFi8zJ8F#51,
+j8Tb9,r3R3/1p3Pkn/p2q2p1/6P1/2B5/P6P/1P3P2/6K1 b - - 1 30,a8d8 e8g8 d8g8 f7g8q,1295,77,96,15082,advancedPawn collinear endgame mate mateIn2 promotion short,https://lichess.org/HwRcZ8q1/black#60,
+lDWpZ,5r1n/1p3q1k/p1p1p3/P2pPr2/1P1P1Np1/3P2P1/6KP/2QR1R2 w - - 5 37,f4e2 f5f2 f1f2 f7f2,1262,76,100,142,collinear crushing fork middlegame short,https://lichess.org/qEgk1S4w#73,
+nPUNC,3r3r/4b2p/1k2b1p1/Np2pp2/1Pp1P3/2P4P/2BRKPP1/3R4 b - - 1 29,e7g5 d2d6 d8d6 d1d6,1266,75,97,2562,advantage collinear fork master middlegame short,https://lichess.org/2BFxJKGa/black#58,
+nsdig,6rk/8/3p1N2/4p2p/1P1bPp2/P2Q1R2/6rP/7K w - - 0 42,f3g3 g2g1 g3g1 g8g1,1181,75,96,1046,collinear endgame master mate mateIn2 operaMate short xRayAttack,https://lichess.org/4ojMYZUQ#83,
+pV6dC,7k/3n3p/p2p1n1q/2pP1Pr1/2p5/2B4P/PP3Q1K/3B2R1 w - - 0 38,f2e3 g5g2 h2g2 h6e3,1288,75,96,21307,collinear crushing discoveredAttack middlegame short,https://lichess.org/kUUjzVjL#75,
+pbdzZ,8/1p4k1/p4qn1/2Ppr1p1/1P3pP1/PN3P2/2Q2K2/4R3 w - - 0 41,c2c3 e5e2 e1e2 f6c3,1079,123,100,31,collinear crushing discoveredAttack endgame master short,https://lichess.org/JqeMSIhz#81,
+sadj4,6k1/p2R1p1p/1p4pB/7n/3Q1r2/8/4q1PP/3R3K b - - 1 29,f4d4 d7d8 d4d8 d1d8 e2e8 d8e8,1065,77,95,5469,collinear endgame long mate mateIn3 pillsburysMate xRayAttack,https://lichess.org/41DF1Mu0/black#58,
+u51Gx,r2q4/2bn1k2/p3pp2/1p1pP3/2pP2pr/2P3B1/PPQ1KPP1/3R3R b - - 1 23,h4h8 h1h7 h8h7 c2h7,1242,79,100,48,advantage collinear middlegame short,https://lichess.org/uI06aQPB/black#46,
